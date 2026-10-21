@@ -1,0 +1,8 @@
+# Dependencies observed in the committed notebooks.
+# Original version pins were not recorded, so versions are intentionally not fabricated here.
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+schemdraw
