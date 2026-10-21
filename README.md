@@ -1,6 +1,20 @@
-# W-CalSat atmospheric attenuation and received-power calculations
+# W-CalSat analysis — Cayetano Soneira Landín
 
-Research notebooks and calibration data used to estimate W-band propagation losses and received power for a calibration-satellite concept.
+Research notebooks and calibration data developed by **Cayetano Soneira Landín** for the study of W-band propagation losses, received power and calibration-source performance for a satellite-based CMB calibration concept.
+
+This repository preserves the analysis associated with the 2023 Master's thesis *Fuente de calibración embarcada en satélite para experimentos del Fondo Cósmico de Microondas desde tierra*, completed at the University of Cantabria.
+
+## Publications and scientific provenance
+
+The work represented here was first presented in:
+
+- C. Soneira Landín, *Fuente de calibración embarcada en satélite para experimentos del Fondo Cósmico de Microondas desde tierra*, Master's thesis, Universidad de Cantabria, 2023. [Thesis PDF](https://repositorio.unican.es/xmlui/bitstream/handle/10902/30822/SoneiraLandinCayetano.pdf?sequence=1&isAllowed=y)
+
+It subsequently contributed to:
+
+- F. J. Casas, E. Martinez-Gonzalez, J. Cubas, G. Pascual-Cisneros, I. Sánchez-Ramos, L. Castelló, P. Vielva and B. Barreiro, “LEO-CalSat for the calibration of W-band ground-based CMB polarization experiments,” *Frontiers in Astronomy and Space Sciences* **13** (2026), 1671698. [doi:10.3389/fspas.2026.1671698](https://doi.org/10.3389/fspas.2026.1671698)
+
+The 2026 paper explicitly cites Soneira Landín (2023) in its received-power, detector-saturation and signal-to-noise analysis, and acknowledges Cayetano Soneira Landín's Master's-thesis contribution. The atmospheric-loss and received-power results shown in that part of the paper are therefore directly connected to the calculation chain archived here. The paper does not explicitly label individual figures as reproduced or adapted from the thesis, so no stronger figure-level provenance claim is made here.
 
 ## Repository layout
 
