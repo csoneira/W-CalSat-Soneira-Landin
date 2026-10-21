@@ -1,0 +1,2 @@
+# W-CalSat atmospheric treatment and power calculations
+Some jupyter notebooks and files needed to calculate atmospheric attenuations and signal-related stuff for the Calibration Satellite in the W-band, W-CalSat. The files are ready to give a .png figure as output. It is programmed to use in Windows. To repeat the calculations we did just download the repositoy, install the [am software](https://lweb.cfa.harvard.edu/~spaine/am/) and run the notebooks.
